@@ -1,4 +1,4 @@
-//sabit n degeri
+ //sabit n degeri
 const n=5;
 
 //yukselen sayi piramidi
